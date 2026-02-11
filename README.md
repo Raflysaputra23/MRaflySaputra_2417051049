@@ -1,2 +1,2 @@
 # M Rafly Saputra
-I'M Fullstack dev
+I'M Fullstack developer
